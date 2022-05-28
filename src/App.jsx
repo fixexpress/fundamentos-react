@@ -8,6 +8,8 @@ import Primeiro from './components/Primeiro'
 import Card from './components/layout/Card'
 
 
+
+
 export default props => (
 
     <div className="App">
@@ -29,6 +31,7 @@ export default props => (
         {/* <Primeiro></Primeiro>
         <ComParametro titulo="Esse é o título" subtitulo="Esse é o subtitulo" />
         <ComParametro titulo="Opa" subtitulo="Epa" /> */}
+
 
     </div>
 
